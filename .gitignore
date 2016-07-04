@@ -1,0 +1,15 @@
+/target/
+
+.classpath
+
+.project
+
+.mvn/wrapper/maven-wrapper.jar
+
+.mvn/wrapper/maven-wrapper.properties
+
+.settings/org.eclipse.core.resources.prefs
+
+*.prefs
+
+.settings/org.eclipse.wst.common.project.facet.core.xml
