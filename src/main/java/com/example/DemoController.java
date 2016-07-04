@@ -19,9 +19,9 @@ public class DemoController {
 	 * /src/main/resources/static).
 	 * 
 	 * <p>
-	 * When using JSP or other server-templating technology, a custom view
-	 * resolver will need to be configured so that the server knows ehere to
-	 * render the view from.
+	 * When using JSP or other server view-templating technology, a custom view
+	 * resolver (e.g. JSP, Thymeleaf) will need to be configured so that the servlet  
+	 * knows where to render the view from.
 	 * </p>
 	 * 
 	 * @return the view location
