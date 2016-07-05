@@ -1,0 +1,6 @@
+{
+  "name": "Boot-ang2",
+  "tagline": "Hello to Angular 2 with Spring Boot",
+  "body": "### Hello to Angular 2 with Spring Boot.\r\nThis project provides an integration of the Hello World type examples available on the Angular 2 QuickStart and the Spring Boot Getting Started Pages. The inspiration is to have the enterprise Java folks have a starting point for when they are new to Angular 2, Spring Boot, or both.\r\n\r\n### Additional Documentation\r\nA detailed explanation is available at http://www.algoclinic.com/angular-2-with-spring-boot.html \r\n\r\n### Authors and Contributors\r\nSumiya (@psumiya)",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
